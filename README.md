@@ -1,7 +1,9 @@
-                                                                                              Project Overview:
+**Project Overview:**
+
 The project is a co-working space booking platform developed using Ruby on Rails as the backend framework, Stimulus.JS for dynamic frontend interactions, Progressive Web App (PWA) features for enhanced user experience, and QR code scanning for streamlined check-in. The primary focus is on facilitating users in finding, booking, and checking into co-working spaces in Berlin.
 
-Technical Features:
+**Technical Features:**
+
 1. Map Integration:
 
 - Implemented a dynamic map using a mapping library (e.g., Leaflet or Google Maps API).
